@@ -270,7 +270,7 @@ for theta in theta_list:
 
 
 
-confidence_score_list_theta0, accuracy_list_theta0 
+print(confidence_score_list_theta0), print(accuracy_list_theta0) # results
 
 
 
